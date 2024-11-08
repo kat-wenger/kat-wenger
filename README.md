@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Spanish
 - 📫 How to reach me Katherine.Wenger@teleperformance.com
 - 😄 Pronouns: They/Them
-- ⚡ Fun fact: My original plan when I went to college was to study language and be an interpreter. Then I decided I like talking to computers more than I like talking to people. :) 
+- ⚡ Fun fact: My original plan when I went to college was to study language, be an interpreter, and see the world. Then I decided I like talking to computers more than I like talking to people. :) 
 
 <!---
 kat-wenger/kat-wenger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
